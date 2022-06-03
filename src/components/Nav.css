@@ -1,0 +1,15 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+.nav{
+  background-color: #1b1c1d;
+  padding: 8px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.nav a{
+  text-decoration: none;
+  color: white;
+}
